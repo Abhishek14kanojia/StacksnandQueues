@@ -6,6 +6,6 @@ public class Node {
 	public Node (int data) {
 		super();
 		this.data = data;
-		next = null;
+		next = null; 
 	} 
 }

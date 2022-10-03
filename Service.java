@@ -25,7 +25,7 @@ public class Service {
 		} int top = head.data;
 			head = head.next;
 			return top;
-			
+			 
 	} 
 	public int peek () {
 		if (isEmpty()) {
